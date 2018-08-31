@@ -1,7 +1,7 @@
 # sappohsama.bashrc
 my personal .bashrc file
 
-![Alt text](https://github.com/SappohSamaWorkshop/sappohsama.bashrc/blob/master/images/Sappo's%20Shell.JPG "sappoh sama .bashcr")
+![Alt text](https://github.com/SappohSamaWorkshop/sappohsama.bashrc/blob/master/images/Sappo's_Shell.JPG "sappoh sama .bashcr")
 
 if you want to reuse the file, remember to add the "." at the beginning of the file</br>
 (Giuthub does not allow to upload files that have a "." At the beginning of the file)
