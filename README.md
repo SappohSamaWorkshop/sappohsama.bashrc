@@ -17,5 +17,5 @@ https://github.com/bartobri/no-more-secrets
 
 </BR>
 
-![Alt text](https://github.com/SappohSamaWorkshop/sappohsama.bashrc/blob/master/images/hell.JPG "sappoh sama .bashcr")
+![Alt text](https://github.com/SappohSamaWorkshop/sappohsama.bashrc/blob/master/images/shell.png "sappoh sama .bashcr")
 
