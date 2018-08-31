@@ -12,5 +12,6 @@ Or simply copy and paste the content of the txt file at the beginning of yor .ba
 
 ![Alt text](https://media.giphy.com/media/9AIY1COqmG941qClgW/giphy.gif "sappoh sama .bashcr")
 
-(the shell animation you see in the gif it was made with the command line tools  No-More-Secrets https://github.com/bartobri/no-more-secrets)
+(the shell animation you see in the gif it was made with the command line tools  No-More-Secrets) </BR>
+https://github.com/bartobri/no-more-secrets
 
