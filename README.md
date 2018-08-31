@@ -5,6 +5,9 @@ my personal .bashrc file
 
 if you want to reuse the file, remember to add the "." at the beginning of the file</br>
 (Giuthub does not allow to upload files that have a "." At the beginning of the file)
+</BR>
+Or simply copy and paste the content of the txt file at the beginning of yor .bashrc file</BR>
+(remember to make a backup first!)
 
 ![Alt text](https://media.giphy.com/media/9AIY1COqmG941qClgW/giphy.gif "sappoh sama .bashcr")
 
